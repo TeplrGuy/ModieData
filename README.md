@@ -1,6 +1,6 @@
 # MovieData
 
-(Note Original README file was deleted by accident when I merged just now :( )
+(Note: Original README file was deleted by accident when I merged just now )
 
 Basic Program that calls themoviedb api using movie titles and returns information about possible movie matches.
 
