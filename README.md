@@ -1,6 +1,6 @@
 # MovieData
 
-(Note Oriinal README file was deleted by accident when I marged just now :( )
+(Note Original README file was deleted by accident when I merged just now :( )
 
 Basic Program that calls themoviedb api using movie titles and returns information about possible movie matches.
 
@@ -47,4 +47,4 @@ Kindly follow the options below!
 - 1 Allows users to input a specific movie title and inserts or updates the database.
   - Tables affected: movie and director
 - 2 Allows user to re-display user input options
-- 3 Allows user to terminate procress
+- 3 Allows user to terminate process
